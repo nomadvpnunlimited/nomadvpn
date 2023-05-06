@@ -23,7 +23,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/NomadFiles"
+    "last_opened_file_path": "D:/Nomadstats"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -35,6 +35,7 @@
       <option name="presentableId" value="Default" />
       <updated>1681382391360</updated>
       <workItem from="1681382393543" duration="118000" />
+      <workItem from="1682015098657" duration="21000" />
     </task>
     <servers />
   </component>
