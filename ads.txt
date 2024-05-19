@@ -1,11 +1,3 @@
-yandex.com, 105364635, DIRECT
-improvedigital.com, 2031, RESELLER
-betweendigital.com, 43554, RESELLER
-uis.mobfox.com, 165, RESELLER
-Contextweb.com, 562899,RESELLER,89ff185a4c4e857c
-hyperad.tech, 150, RESELLER
-hyperad.tech, 215, RESELLER
-google.com, pub-5533854580432370, RESELLER, f08c47fec0942fa0
 adcolony.com, 1efc6603710003ea, RESELLER
 adcolony.com, 29b7f4a14dc689eb, RESELLER
 adelement.com, 30273, RESELLER
@@ -13,7 +5,6 @@ admanmedia.com, 1009, RESELLER
 admixer.com, 14920953, RESELLER
 admixer.net, 2878f07c-cc3f-4f8a-a26c-8e6033a539a6, RESELLER
 ads.vk.com, 14920953, DIRECT
-adspend.ru, 14920953, DIRECT
 adview.com, 53849096, RESELLER
 adwmg.com, 14920953, RESELLER
 algorix.co, 60322, RESELLER
@@ -28,7 +19,6 @@ betweendigital.com, 44088, RESELLER
 betweendigital.com, 44229, RESELLER
 bid-matrix.com, 14920953, DIRECT
 bidmachine.io, 138, RESELLER
-bigo.sg, 14920953, DIRECT
 brightcom.com, 29559, RESELLER
 chocolateplatform.com, 14630, RESELLER
 contextweb.com, 562499, RESELLER
@@ -59,6 +49,8 @@ lunamedia.io, bfacf5e017bb11edb41173b0ca2c748c, RESELLER
 marversal.com, 116, RESELLER
 mediasniper.ru, 14920953, DIRECT
 meitu.com, 654, RESELLER
+mintegral.com, 14920953, DIRECT
+mts.ru, 14920953, DIRECT
 myfeature.tv, sjP0aJHe3OFFP6HPUTTc, RESELLER
 omnifytv.com, Oj5TJGviERRBMxAq, RESELLER
 onetag.com, 59d216e971852f2, RESELLER
@@ -102,7 +94,7 @@ smartadserver.com, 4467, RESELLER
 smartyads.com, 100034, RESELLER
 soloway.ru, 14920953, DIRECT
 sovrn.com, 273644, RESELLER
-target.my.com, 14920953, DIRECT
+target.vk.ru, 14920953, DIRECT
 triplelift.com, 10522, RESELLER
 triplelift.com, 8446, RESELLER
 ucfunnel.com, par-D2346AAB7ABD36B4CDD7BBD264BA92E2, RESELLER
