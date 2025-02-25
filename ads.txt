@@ -16,9 +16,13 @@ betweendigital.com, 43092, RESELLER
 betweendigital.com, 43651, RESELLER
 betweendigital.com, 43871, RESELLER
 betweendigital.com, 44088, RESELLER
+betweendigital.com, 44229, DIRECT
 betweendigital.com, 44229, RESELLER
-bid-matrix.com, 14920953, DIRECT
+betweendigital.ru, 14920953, DIRECT
+bidease.com, 14920953, DIRECT
+bidease.com, bidease_seller_17, RESELLER
 bidmachine.io, 138, RESELLER
+bigo.sg, 14920953, DIRECT
 brightcom.com, 29559, RESELLER
 chocolateplatform.com, 14630, RESELLER
 contextweb.com, 562499, RESELLER
@@ -33,11 +37,14 @@ gamoshi.io, 267-b4800, RESELLER
 google.com, pub-2843405949989126, RESELLER
 hybrid.ai, 14920953, DIRECT
 hyperad.tech, 41, RESELLER
+ignitemediatech.com, 14920953, DIRECT
 improvedigital.com, 1532, RESELLER
 indexexchange.com, 191332, RESELLER
 indexexchange.com, 192806, RESELLER
 inmobi.com, 22e5354e453f49348325184e25464adb, RESELLER
+inmobi.com, 791b84bdd791470faa8dca5f04e6a83b, RESELLER
 inmobi.com, 86357825a302443d9a99c0b5dda0eafa, RESELLER
+lacunaads.com, 14920953, DIRECT
 lijit.com, 273644, RESELLER
 lkqd.net, 647, RESELLER
 lkqd.net, 654, RESELLER
@@ -98,6 +105,7 @@ target.vk.ru, 14920953, DIRECT
 triplelift.com, 10522, RESELLER
 triplelift.com, 8446, RESELLER
 ucfunnel.com, par-D2346AAB7ABD36B4CDD7BBD264BA92E2, RESELLER
+upravel.com, 14920953, DIRECT
 ushareit.com, 14920953, DIRECT
 verve.com, 15290, RESELLER
 verve.com, 15503, RESELLER
@@ -105,3 +113,4 @@ video.unrulymedia.com, 3880497124, RESELLER
 vidoomy.com, 9148331, RESELLER
 xapads.com, 144307, RESELLER
 yeahmobi.com, 113772, RESELLER
+zmaticoo.com, 14920953, DIRECT
