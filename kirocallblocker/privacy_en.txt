@@ -1,0 +1,44 @@
+Privacy Policy
+
+1. General Provisions: The Kiro Call Blocker app is designed to detect and block unwanted incoming calls based on user settings. This Privacy Policy describes what data is processed by the app and how it is used. By using the app, you agree to the terms of this policy.
+
+2. What Data Does the App Process?
+To perform its functions, the app has access to the following data:
+•Incoming call number: to compare with block lists.
+•Phone status information: to determine whether a call is incoming.
+•Call log: only with explicit user permission to display the history in the app.
+•Custom lists: numbers that you manually add to the "Black" or "White" lists.
+
+3. Purpose of Data Processing
+The data is used solely for the following purposes:
+•Detecting and filtering incoming calls.
+•Checking numbers against local block lists.
+•Displaying notifications and pop-up windows (overlay) about spam calls.
+• Automatically reject calls according to your settings.
+
+4. Local Processing and Storage
+All data is processed and stored exclusively locally on your device.
+•The app does not transfer phone numbers, call logs, or contact lists to external servers.
+•The developer has no technical ability to access your data or call history.
+
+5. Transfer of Data to Third Parties
+We do not transfer, sell, or provide any personal data to third parties. Data processing occurs in an isolated environment on your device.
+
+6. Permissions Used
+The following system permissions are required for the app to function:
+•ROLE_CALL_SCREENING (Android 10+): for automatic call filtering.
+•READ_PHONE_STATE: for incoming call detection.
+•SYSTEM_ALERT_WINDOW: to display a spam notification window over the call screen.
+•POST_NOTIFICATIONS: for notifications about blocked calls.
+• Denying these permissions may render the blocking features inoperative.
+
+7. Children's Privacy
+The app is not intended for children under 13 years of age (or 14 years of age in China). We do not collect personal information from children.
+
+8. Policy Changes
+We reserve the right to update this policy. We encourage users to periodically check this page for changes. Continued use of the app after changes are made constitutes your acceptance of them.
+
+9. Contact Us
+If you have any questions about the app or this Policy, please contact us:
+•Developer: Ronin Group
+•Email: ram219219@gmail.com
